@@ -28,6 +28,7 @@ Análise de riscos:
 
 ## 🏆 Scrum  
 
+Scrum é uma estrutura ágil de colaboração, que combina diversas 
 
 ### 📅 Sprints  
 
